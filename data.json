@@ -15,7 +15,7 @@
       "name": "MiniFridge",
       "description": "Compact Minifridge with Freezer.",
       "price": 99.99,
-      "path": "./Images/MiniFridge.jpg"
+      "path": "/Images/MiniFridge.jpg"
     },
     {
       "name": "Blender",
