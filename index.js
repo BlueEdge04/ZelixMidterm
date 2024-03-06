@@ -188,7 +188,7 @@ function updateCart() {
     const quantity = cart[itemName];
     const price = item.price * quantity;
     total += price;
-    tax += price * 0.75;
+    tax += price * 0.20;
 
     itemRow = `
         <div class="row">

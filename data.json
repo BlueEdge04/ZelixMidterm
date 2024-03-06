@@ -15,7 +15,7 @@
       "name": "MiniFridge",
       "description": "Compact Minifridge with Freezer.",
       "price": 99.99,
-      "path": "./Images/Minifridge.jpg"
+      "path": "./Images/MiniFridge.jpg"
     },
     {
       "name": "Blender",
@@ -40,21 +40,21 @@
       "name": "Toaster",
       "description": "A mixer with super aerator whisk, 5 speed settings.",
       "price": 39.99,
-      "path": "./Images/toaster.jpg"
+      "path": "./Images/Toaster.jpg"
     },
 
     {
       "name": "Vacuum",
       "description": "Used in breakrooms, kitchens and stairwells.",
       "price": 99.99,
-      "path": "./Images/vacuum.jpg"
+      "path": "./Images/Vacuum.jpg"
     },
 
     {
       "name": "Ninja Airfryer ",
       "description": "Air fry with 75% less fat than traditional methods.",
       "price": 69.99,
-      "path": "./Images/airfryer.jpg"
+      "path": "./Images/Airfryer.jpg"
     }
   ]
   
