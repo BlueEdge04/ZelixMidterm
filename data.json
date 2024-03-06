@@ -1,0 +1,60 @@
+[
+    {
+      "name": "Espresso Machine",
+      "description": "Espresso machine with thermoblock system.",
+      "price": 224.99,
+      "path": "./Images/espresso.jpg"
+    },
+    {
+      "name": "Electric Steamer",
+      "description": "Prtable fabric and garment steamer.",
+      "price": 24.99,
+      "path": "./Images/Steamer.jpg"
+    },
+    {
+      "name": "MiniFridge",
+      "description": "Compact Minifridge with Freezer.",
+      "price": 99.99,
+      "path": "./Images/Minifridge.jpg"
+    },
+    {
+      "name": "Blender",
+      "description": "2800W 3.9L Blender Heavy Duty Commercial Grade ",
+      "price": 49.99,
+      "path": "./Images/Blender.png"
+    },
+    {
+      "name": "Kettle",
+      "description": "A stainless steel kettle with a 1.7L capacity.",
+      "price": 19.99,
+      "path": "./Images/Kettle.jpg"
+    },
+    {
+      "name": "Hand-held Mixer",
+      "description": "A mixer with super aerator whisk, 5 speed settings.",
+      "price": 39.99,
+      "path": "./Images/Mixer.jpg"
+    },
+
+    {
+      "name": "Toaster",
+      "description": "A mixer with super aerator whisk, 5 speed settings.",
+      "price": 39.99,
+      "path": "./Images/toaster.jpg"
+    },
+
+    {
+      "name": "Vacuum",
+      "description": "Used in breakrooms, kitchens and stairwells.",
+      "price": 99.99,
+      "path": "./Images/vacuum.jpg"
+    },
+
+    {
+      "name": "Ninja Airfryer ",
+      "description": "Air fry with 75% less fat than traditional methods.",
+      "price": 69.99,
+      "path": "./Images/airfryer.jpg"
+    }
+  ]
+  
