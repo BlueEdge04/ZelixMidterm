@@ -3,6 +3,9 @@
 Fadi Masannat and Zachary Ahmad
 ================================
 Home Main Page */
+
+
+
 const url = 'data.json';
 let cart = {};
 let user = {};
