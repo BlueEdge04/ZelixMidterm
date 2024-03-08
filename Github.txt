@@ -5,3 +5,5 @@ https://fadi-masannat.github.io/ZelixMidterm/
 
 Important Note:
  Make sure to run index.html as live server because for some reason if you try to open it directly it might not fetch properly and the home page might not load anything and be weirdly empty. Open the file in your coding enviornemnt and run it as a live server, thanks :)
+
+Or just open it using the github page, that fully works too. 
